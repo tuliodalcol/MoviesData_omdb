@@ -26,5 +26,5 @@ def export_response(response:dict, file_name, path):
 def export_csv(api_response:dict, file_name, path):
     #df = pd.DataFrame.from_dict(self.data, orient='index').reset_index()
     df = pd.DataFrame(api_response, index=[0])
-    df.to_csv(f'{path}/{file_name}.csv', index=True)
+    df.to_csv(f'{path}/{file_name}.csv', index=False)
     print (f'CSV exported to {path}/{file_name}.csv')
