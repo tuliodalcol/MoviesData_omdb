@@ -8,16 +8,20 @@ Edit the `.env` file
     `OUTPUT_DIR` = Local folder you want to create to store the results
 
 ### 2. Instructions to install dependencies
+
 It creates a virtual environment and install all libraries in it.
+
 ```javascript
 bash run.sh
 ```
 
 ### 3. Instructions to run project
+
+It will ask to input on screen the Content type and Content name, and the results will be exported to a local directory in the format of csv.
+
 ```javascript
 python3 main.py
 ```
-It will ask to input on screen the Content type and Content name, and the results will be exported to a local directory in the format of csv.
 
 ##### Params:
 
