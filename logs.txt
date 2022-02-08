@@ -1,9 +1,0 @@
-INFO:__main__:Started program execution
-INFO:modules.etl:Content_type=movie, Content_name=inception, output_dir=output
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.omdbapi.com:80
-DEBUG:urllib3.connectionpool:http://www.omdbapi.com:80 "GET /?apikey=5c310b79&t=inception&type=movie&y=&plot=full HTTP/1.1" 200 None
-DEBUG:modules.etl:Data extracted
-DEBUG:modules.etl:Data formatted
-DEBUG:modules.etl:Data transformed
-DEBUG:modules.etl:Data exported to output/movie_inception.csv
-INFO:__main__:Finished program execution
