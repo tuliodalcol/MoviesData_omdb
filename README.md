@@ -18,7 +18,7 @@ python3 main.py
 ```
 It will ask to input on screen the Content type and Content name, and the results will be exported to a local directory in the format of csv.
 
-#### Params:
+#### __Params__:
 
   `Content type` = It can be Movie / Series / Episode.
   
