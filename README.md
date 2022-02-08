@@ -6,7 +6,9 @@ We will positively evaluate it if you develop it in Python.
 
 ##### Config
 -  Edit the .env file
+
     `API_KEY` = The api token
+    
     `OUTPUT_DIR` = Local folder you want to create to store the results
 
 ##### Instructions to create project
