@@ -18,7 +18,7 @@ python3 main.py
 ```
 It will ask to input on screen the Content type and Content name, and the results will be exported to a local directory in the format of csv.
 
-#### __Params__:
+##### Params:
 
   `Content type` = It can be Movie / Series / Episode.
   
@@ -26,5 +26,5 @@ It will ask to input on screen the Content type and Content name, and the result
   
   `year` = (Optional) The release year of the content.
  
-### Output:
+##### Output:
 A csv file with the results will be generated and exported to the local directory
