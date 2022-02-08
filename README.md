@@ -1,7 +1,7 @@
 # CASE STUDY 1
 
 ### Config
--  Edit the .env file
+Edit the `.env` file
 
     `API_KEY` = The api token
     
@@ -27,4 +27,4 @@ It will ask to input on screen the Content type and Content name, and the result
   `year` = (Optional) The release year of the content.
  
 ### Output:
-- A csv file with the results will be generated and exported to the local directory
+A csv file with the results will be generated and exported to the local directory
