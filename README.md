@@ -8,6 +8,7 @@ Edit the `.env` file
     `OUTPUT_DIR` = Local folder you want to create to store the results
 
 ### 2. Instructions to install dependencies
+It creates a virtual environment and install all libraries in it.
 ```javascript
 bash run.sh
 ```
