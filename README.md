@@ -1,18 +1,18 @@
 # CASE STUDY 1
 
-### Config
+### 1. Config
 Edit the `.env` file
 
     `API_KEY` = The api token
     
     `OUTPUT_DIR` = Local folder you want to create to store the results
 
-### Instructions to install dependencies
+### 2. Instructions to install dependencies
 ```javascript
 bash run.sh
 ```
 
-### Instructions to run project
+### 3. Instructions to run project
 ```javascript
 python3 main.py
 ```
