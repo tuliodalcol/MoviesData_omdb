@@ -1,5 +1,6 @@
-# local directory
+# project files
 output
+logs.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
