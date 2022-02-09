@@ -34,3 +34,7 @@ python main.py
  
 ##### Output:
 A csv file with the results will be generated and exported to the local directory
+
+### 4. Monitoring
+
+A `Logs.txt` file will be created in the project directory with information of the last time the script ran.
