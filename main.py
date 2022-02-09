@@ -32,8 +32,8 @@ def main(content_type, content_name) -> None:
     logger.info('Finished program execution')
     
 if __name__ == '__main__':
-    content_type = input("What is the contect type ? (Movie/Series) ")
-    content_name = input("What is the contect name ? ")
+    content_type = input("What is the content type ? (Movie/Series) ")
+    content_name = input("What is the content name ? ")
     main(content_type, content_name)
 
 
