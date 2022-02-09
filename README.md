@@ -33,7 +33,7 @@ python main.py
   `year` = (Optional) The release year of the content.
  
 ##### Output:
-A csv file with the results will be generated and exported to the local directory
+A csv file with the results will be generated and exported to the local directory, which is set in the .env file `OUTPUT_DIR`.
 
 ### 4. Monitoring
 
