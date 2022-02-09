@@ -5,7 +5,7 @@ Edit the `.env` file
 
     `API_KEY` = The api token
     
-    `OUTPUT_DIR` = Local folder you want to create to store the results
+    `OUTPUT_DIR` = An local folder where the results will be stored
 
 
 ### 2. Instructions to install dependencies
