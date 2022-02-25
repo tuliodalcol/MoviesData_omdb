@@ -1,4 +1,9 @@
-# CASE STUDY 1
+# Documentation
+http://www.omdbapi.com/apikey.aspx
+http://www.omdbapi.com/
+
+# REST API 
+- Given a movie or series title, returns the results available in the OMDb API, which is a RESTful web service to obtain that information.
 
 ### 1. Config
 Edit the `.env` file
